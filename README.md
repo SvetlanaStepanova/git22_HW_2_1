@@ -25,6 +25,6 @@ Java (Maven):
 
 iOS (добавьте код в ваш Podfile):
 
-```iOS
+``` Swift
 platform :ios, '8.0'
 pod "neuro-ios-sdk"```
